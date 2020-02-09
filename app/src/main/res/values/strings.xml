@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Proiect calculator</string>
+    <string name="first_text">Prima mea aplicatie</string>
+    <string name="numar1">Numar1</string>
+    <string name="numar2">Numar2</string>
+    <string name="rezultat_final">Rezultat</string>
+    <string name="calculaeaza_final">Calculeaza</string>
+</resources>
